@@ -2,7 +2,7 @@
 
 ## Installations
 
-1. `bower install --save angular-analytics-integrations-cnzz`
+1. `bower install --save L42y/angular-analytics-integrations-cnzz`
 
 2. including script file provided by this component into your application
 
